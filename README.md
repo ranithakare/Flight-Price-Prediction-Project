@@ -1,4 +1,3 @@
-
 # Flight Price Prediction Project
 
 ### About Dataset 
@@ -71,12 +70,12 @@ Competitor Price: Price offered by competitors.
 
   ### Dashboard Snap's
   #### Home Page
-  ![Home](https://github.com/user-attachments/assets/ec53e6d7-8e35-4ffb-9cc1-32dc2e754371)
+  ![Home](https://github.com/user-attachments/assets/7dcd7d95-c3ad-4763-b2e3-3a6282309a55)
 #### Airline Analysis
-  ![Airline Analysis](https://github.com/user-attachments/assets/d2bd7270-035f-47f2-a155-ec089f83e46d)
+  ![Airline Analysis](https://github.com/user-attachments/assets/570b5cfc-20f0-4bb2-946d-2544bcd09ad2)
 #### Seat Analysis
-![Seat Analysis](https://github.com/user-attachments/assets/a21db84f-a401-4174-abd1-b032a0ffe34a)
+![Seat Analysis](https://github.com/user-attachments/assets/f33228f2-08c1-4636-aa0a-835c9d7d988f)
 #### Route Analysis
-![Route Analysis](https://github.com/user-attachments/assets/9c27d1ce-9ac4-4e9e-9aa5-0e03ea3e6ab8)
+![Route Analysis](https://github.com/user-attachments/assets/0b386e81-c7cc-4360-bc53-e0e53134d777)
 #### Fare Prediction Analysis
-![fare Prediction](https://github.com/user-attachments/assets/29d4f435-44e5-4b34-b594-8d85c3c2955f)
+![fare Prediction](https://github.com/user-attachments/assets/9c1761f0-56a2-43b7-b698-9b02948e6d24)
