@@ -70,10 +70,13 @@ Competitor Price: Price offered by competitors.
   The goal of the flight price prediction project is to develop a model that can accurately predict the price of a flight ticket based on various features such as the airline, route, flight class, and other relevant attributes. The prediction model aims to help airlines optimize their pricing strategies and enhance their competitive edge in the market.
 
   ### Dashboard Snap's
+  #### Home Page
+  ![Home](https://github.com/user-attachments/assets/ec53e6d7-8e35-4ffb-9cc1-32dc2e754371)
 #### Airline Analysis
-  ![Airline Analysis](https://github.com/ranithakare/Flight-Price-Prediction-Project/assets/169578266/c140cc32-0c84-4f1f-852e-901d9cb593e0)
+  ![Airline Analysis](https://github.com/user-attachments/assets/d2bd7270-035f-47f2-a155-ec089f83e46d)
 #### Seat Analysis
-![Seat Analysis](https://github.com/ranithakare/Flight-Price-Prediction-Project/assets/169578266/83d214b2-1409-4395-871f-2f833e0c13ac)
+![Seat Analysis](https://github.com/user-attachments/assets/a21db84f-a401-4174-abd1-b032a0ffe34a)
 #### Route Analysis
-![Route Analysis](https://github.com/ranithakare/Flight-Price-Prediction-Project/assets/169578266/255c6338-986a-452f-8360-c762de03744f)
-
+![Route Analysis](https://github.com/user-attachments/assets/9c27d1ce-9ac4-4e9e-9aa5-0e03ea3e6ab8)
+#### Fare Prediction Analysis
+![fare Prediction](https://github.com/user-attachments/assets/29d4f435-44e5-4b34-b594-8d85c3c2955f)
