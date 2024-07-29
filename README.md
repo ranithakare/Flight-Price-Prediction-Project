@@ -55,10 +55,6 @@ Month Category: Categorical month.
 
 Season: Season of the flight.
 
-Weather Arrival: Weather at the arrival location.
-
-Weather Departure: Weather at the departure location.
-
 Seat Availability: Number of available seats.
 
 Flight Capacity: Total number of seats on the flight.
@@ -70,12 +66,12 @@ Competitor Price: Price offered by competitors.
 
   ### Dashboard Snap's
   #### Home Page
-  ![Home](https://github.com/user-attachments/assets/7dcd7d95-c3ad-4763-b2e3-3a6282309a55)
+  ![Home](https://github.com/user-attachments/assets/b90e8903-fd32-4111-b305-6d3737becb3f)
 #### Airline Analysis
-  ![Airline Analysis](https://github.com/user-attachments/assets/570b5cfc-20f0-4bb2-946d-2544bcd09ad2)
+ ![Airline](https://github.com/user-attachments/assets/971866ad-63a3-4d8a-844e-8b9f883e19dc)
 #### Seat Analysis
-![Seat Analysis](https://github.com/user-attachments/assets/f33228f2-08c1-4636-aa0a-835c9d7d988f)
+![Seats](https://github.com/user-attachments/assets/8eff0534-9858-40fa-abff-da3ed181871b)
 #### Route Analysis
-![Route Analysis](https://github.com/user-attachments/assets/0b386e81-c7cc-4360-bc53-e0e53134d777)
+![Route](https://github.com/user-attachments/assets/e9694d89-19ae-4b0b-ae50-9797ab69eb5c)
 #### Fare Prediction Analysis
-![fare Prediction](https://github.com/user-attachments/assets/9c1761f0-56a2-43b7-b698-9b02948e6d24)
+![Fare Prediction](https://github.com/user-attachments/assets/76f19352-e8ff-48a1-aab9-106f74d7574c)
