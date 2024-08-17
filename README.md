@@ -65,6 +65,7 @@ Competitor Price: Price offered by competitors.
   The goal of the flight price prediction project is to develop a model that can accurately predict the price of a flight ticket based on various features such as the airline, route, flight class, and other relevant attributes. The prediction model aims to help airlines optimize their pricing strategies and enhance their competitive edge in the market.
 
   ### Dashboard Snap's
+  ### Project Link https://app.powerbi.com/view?r=eyJrIjoiYTRmNDQxY2UtM2Q4Yy00MjdmLWExYzgtZGE0OTlkZTMxMzg1IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
   #### Home Page
   ![Home](https://github.com/user-attachments/assets/b90e8903-fd32-4111-b305-6d3737becb3f)
 #### Airline Analysis
