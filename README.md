@@ -59,7 +59,6 @@ Seat Availability: Number of available seats.
 
 Flight Capacity: Total number of seats on the flight.
 
-Competitor Price: Price offered by competitors.
 
 ### Problem Statement 
   The goal of the flight price prediction project is to develop a model that can accurately predict the price of a flight ticket based on various features such as the airline, route, flight class, and other relevant attributes. The prediction model aims to help airlines optimize their pricing strategies and enhance their competitive edge in the market.
